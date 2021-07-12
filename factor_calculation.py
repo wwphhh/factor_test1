@@ -282,6 +282,7 @@ class factor_construct(object):
 
 
 if __name__=="__main__":
+    # 定义对象
     factor_ob = factor_construct()
     factor_ob.get_all_factor()
 
